@@ -8,11 +8,11 @@ This is a robotic hand made by [InMoov](http://inmoov.fr/) 3D printed and assamb
   - [Pictures](#pictures)
   - [Links](#links)
 - [My process](#my-process)
-	-[Electric part](#electric-part)
-	-[3D printing](#3D-printing)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+	- [Electric part](#electric-part)
+	- [3D printing](#3D-printing)
+  	- [Built with](#built-with)
+  	- [What I learned](#what-i-learned)
+  	- [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
